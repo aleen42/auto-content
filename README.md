@@ -21,12 +21,10 @@ a node.js module for generating justified contents
 
 * 0.1.0 Initial release
 
-## How to contribute
+## :yum: How to contribute
 
-:yum: How to contribute
+Have an idea? Found a bug? See [how to contribute](https://aleen42.gitbooks.io/personalwiki/content/contribution.html).
 
-Have an idea? Found a bug? See how to contribute.
+## :scroll: License
 
-:scroll: License
-
-MIT © aleen42
+[MIT](https://aleen42.gitbooks.io/personalwiki/content/MIT.html) © aleen42
